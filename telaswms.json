@@ -2,7 +2,19 @@
   {
     "id": 1,
     "descricao": "Painel de Conferência",
-    "caminho": "http://interno.chg.com.br/inforareaconferencia.php?CodEmp=",
+    "caminho": "http://interno.chg.com.br/inforareaconferencia.php?CodEmp=1",
+    "imagem": "https://lucasfpastre.github.io/telas-wms/conferencia.png"
+  },
+  {
+    "id": 2,
+    "descricao": "Painel de Separação",
+    "caminho": "https://interno.chg.com.br/painelseparacao.php?CodEmp=1",
+    "imagem": "https://lucasfpastre.github.io/telas-wms/conferencia.png"
+  },
+  {
+    "id": 3,
+    "descricao": "Painel de Armazenamento",
+    "caminho": "https://interno.chg.com.br/painelarmazenamento.php?CodEmp=1",
     "imagem": "https://lucasfpastre.github.io/telas-wms/conferencia.png"
   }
 ]
